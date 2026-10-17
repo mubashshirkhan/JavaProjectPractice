@@ -1,4 +1,6 @@
 //NegativeAmountException.java
+//password: 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 
+
 class NegativeAmountException extends Exception{
 	
 	private static final long serialVersionUID=1L;
