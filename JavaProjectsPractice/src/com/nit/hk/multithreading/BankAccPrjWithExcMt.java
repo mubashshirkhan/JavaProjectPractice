@@ -1,4 +1,5 @@
 //NegativeAmountException.java
+
 package com.nit.hk.multithreading;
 class NegativeAmountException extends Exception{
 	
