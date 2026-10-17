@@ -7,6 +7,7 @@ class MyThread2 extends Thread
 		}
 	}
 }
+  
 
 class  Test01
 {
